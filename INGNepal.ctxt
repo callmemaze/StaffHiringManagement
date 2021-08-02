@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=INGNepal
+comment1.params=
+comment1.target=INGNepal()
+comment2.params=
+comment2.target=void\ fullTimeForm()
+comment3.params=
+comment3.target=void\ navigation()
+comment4.params=
+comment4.target=void\ partTimeForm()
+comment5.params=
+comment5.target=void\ navigationPart()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=8
